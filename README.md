@@ -1,6 +1,3 @@
-# Hybrid-Multimodal-Federated-Learning-for-Robust-Deepfake-Detection-under-Adversarial-Conditions
-# README.md
-
 # Hybrid Multimodal Federated Learning for Robust Deepfake Detection under Adversarial Conditions
 
 A deepfake detection project developed during a research internship at **The LNM Institute of Information Technology (LNMIIT), Jaipur**, under the guidance of **Dr. Ashish Kumar Dwivedi**.
